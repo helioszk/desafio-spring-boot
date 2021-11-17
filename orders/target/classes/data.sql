@@ -1,0 +1,1 @@
+INSERT INTO ORDERS(description, name, status, total) VALUES('Primeiro pedido', 'PON 1', 'NOT_PROCESSED', 100.0);
